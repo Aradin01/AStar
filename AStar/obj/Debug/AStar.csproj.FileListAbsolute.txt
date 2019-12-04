@@ -1,0 +1,30 @@
+D:\ROP - Pepa\AStar\AStar\bin\Debug\AStar.exe.config
+D:\ROP - Pepa\AStar\AStar\bin\Debug\AStar.exe
+D:\ROP - Pepa\AStar\AStar\bin\Debug\AStar.pdb
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.Form1.resources
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.cache
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.exe
+D:\ROP - Pepa\AStar\AStar\obj\Debug\AStar.pdb
+G:\ROP\ROP - Pepa\AStar\AStar\bin\Debug\AStar.exe.config
+G:\ROP\ROP - Pepa\AStar\AStar\bin\Debug\AStar.exe
+G:\ROP\ROP - Pepa\AStar\AStar\bin\Debug\AStar.pdb
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.Form1.resources
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.exe
+G:\ROP\ROP - Pepa\AStar\AStar\obj\Debug\AStar.pdb
+G:\ROP\ROP\AStar\AStar\bin\Debug\AStar.exe.config
+G:\ROP\ROP\AStar\AStar\bin\Debug\AStar.exe
+G:\ROP\ROP\AStar\AStar\bin\Debug\AStar.pdb
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.Form1.resources
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.exe
+G:\ROP\ROP\AStar\AStar\obj\Debug\AStar.pdb

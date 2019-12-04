@@ -1,0 +1,20 @@
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.Form1.resources
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.Properties.Resources.resources
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.csproj.GenerateResource.cache
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.csproj.CoreCompileInputs.cache
+D:\ROP - Pepa\AStar\AStar\bin\Release\AStar.exe.config
+D:\ROP - Pepa\AStar\AStar\bin\Release\AStar.exe
+D:\ROP - Pepa\AStar\AStar\bin\Release\AStar.pdb
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.exe
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.pdb
+D:\ROP - Pepa\AStar\AStar\obj\Release\AStar.csprojAssemblyReference.cache
+G:\ROP\ROP\AStar\AStar\bin\Release\AStar.exe.config
+G:\ROP\ROP\AStar\AStar\bin\Release\AStar.exe
+G:\ROP\ROP\AStar\AStar\bin\Release\AStar.pdb
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.csprojResolveAssemblyReference.cache
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.Form1.resources
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.Properties.Resources.resources
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.csproj.GenerateResource.Cache
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.csproj.CoreCompileInputs.cache
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.exe
+G:\ROP\ROP\AStar\AStar\obj\Release\AStar.pdb
